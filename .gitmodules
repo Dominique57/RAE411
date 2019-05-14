@@ -1,0 +1,9 @@
+[submodule "411W14"]
+	path = 411W14
+	url = https://github.com/Dominique57/411W14
+[submodule "exmp-graph"]
+	path = exmp-graph
+	url = https://github.com/Dominique57/exmp-graph
+[submodule "411-MTP"]
+	path = 411-MTP
+	url = https://github.com/Dominique57/411-MTP
