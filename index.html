@@ -1,12 +1,179 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Page Title</title>
+    <link rel="stylesheet" href="Includes/style.css">
+    <link rel="stylesheet" href="Includes/w3.css">
+    <script src="Includes/jquery.js"></script>
+
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/icoTab.ico">
+
+    <title> Hello World ! - Game </title>
+
+    <style id="stndz-style">
+        div[class*="item-container-obpd"],
+        a[data-redirect*="paid.outbrain.com"],
+        a[onmousedown*="paid.outbrain.com"] {
+            display: none !important;
+        }
+
+        a div[class*="item-container-ad"] {
+            height: 0px !important;
+            overflow: hidden !important;
+            position: absolute !important;
+        }
+
+        div[data-item-syndicated="true"] {
+            display: none !important;
+        }
+
+        .grv_is_sponsored {
+            display: none !important;
+        }
+
+        .zergnet-widget-related {
+            display: none !important;
+        }
+    </style>
 </head>
+
 <body>
+    <header>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+        <div class="w3-display-container">
+            <img src="img/space-banner.jpg" class="w3-animate-opacity" alt="Lights"
+                style="width: 100%;max-height: 200px">
+            <div class="w3-top">
+                <div class="w3-bar w3-indigo w3-card">
+                    <!-- left -->
+                    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right"
+                        href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i
+                            class="fa fa-bars"></i></a>
+                    <a href="index.html" class="w3-bar-item w3-button w3-padding-large">Home</a>
+                    <a href="contact.html" class="w3-bar-item w3-button w3-padding-large">Contact</a>
+                    <!-- right -->
+                </div>
+            </div>
 
+            <!-- Navbar on small screens -->
+            <div id="navDemo" class="w3-bar-block w3-indigo w3-hide w3-hide-large w3-hide-medium w3-top"
+                style="margin-top:46px">
+                <a href="" class="w3-bar-item w3-button w3-padding-large w3-right">Nothing here</a>
+            </div>
+        </div>
+
+
+
+        <script>
+            // Used to toggle the menu on small screens when clicking on the menu button
+            function myFunction() {
+                var x = document.getElementById("navDemo");
+                if (x.className.indexOf("w3-show") == -1) {
+                    x.className += " w3-show";
+                }
+                else {
+                    x.className = x.className.replace(" w3-show", "");
+                }
+            }
+
+            function openTab(evt, actionType) {
+                var i, x, tablinks;
+                x = document.getElementsByClassName("actionType_tab");
+                for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                }
+                tablinks = document.getElementsByClassName("tablink_tab");
+                for (i = 0; i < x.length; i++) {
+                    tablinks[i].className = tablinks[i].className.replace(" w3-grey", "");
+                }
+                document.getElementById(actionType).style.display = "block";
+                evt.currentTarget.className += " w3-grey";
+            }
+        </script>
+    </header>
+
+    <main class="w3-padding-64 w3-container">
+        <h1 class="w3-center w3-xxxlarge"><b><i class="fa fa-newspaper-o"></i> Blog section :</b><br></h1>
+
+        <div class="w3-row">
+            <div class="w3-col l8 s12">
+                <div class="w3-card-4 w3-margin w3-white" style="border: 1px gray solid;">
+                    <div class="w3-display-container">
+                        <img src="img/news_logo.jpg" alt="BREAKING NEWS" cla
+                            style="margin-top: 20px;border-radius: 10px;width:80%; margin-left: 10%; margin-right: 10%; max-height: 150px; max-width: 900px;opacity: 0.85;">
+                            <div class="w3-display-bottommiddle w3-container w3-text-white">
+                                <h1 style="text-shadow: 4px 4px #000000;" class="w3-jumbo">Week 1</h1>
+                            </div>
+                    </div>
+                    <div id="content">
+                        <div class="w3-container">
+                            <h3><b>Title!</b></h3>
+                            <h4><span class="w3-opacity w3-right">2 mai, 2018</span>
+                            </h4>
+                        </div>
+                        <div class="w3-container">
+                            <p>
+                                    COMMENT <br/>
+                                    COMMENT <br/>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <!-- END BLOG ENTRIES -->
+            </div>
+
+            <!-- Introduction menu -->
+            <div class="w3-col l4 ">
+                <!-- About Card -->
+                <div class="w3-card w3-margin w3-margin-top" style="border: 1px gray solid;">
+                    <center><img src="img/dominique.jpg" class="w3-margin" style="width: 345px; height: 460px;"></center>
+                    <div class="w3-container w3-white">
+                        <h4><b>Dominique MICHEL:</b></h4>
+                        <p>
+                            Software engineer student at EPITA doing its iternational semester in Riga at RTU.<br/>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <footer class="w3-container w3-indigo w3-center" xmlns="http://www.w3.org/1999/html">
+            <div class="w3-mobile">
+                <div class="w3-quarter">
+                    <p class="w3-center">
+                        ©GotoBreak 2018 - 2020
+                        <br>
+                        <a href="https://www.gnu.org/licenses/gpl-3.0.fr.html" target="_blank">GENERAL PUBLIC LICENSE
+                            3.0</a>
+                    </p>
+                    <h3>Social Media :</h3>
+                    <div class="w3-xxlarge">
+                        <a href="https://www.facebook.com/dominique.michel.9210" target="_blank"><i
+                            class="fa fa-facebook-square"></i></a>
+                        <a href="https://twitter.com/" target="_blank"><i
+                            class="fa fa-twitter-square"></i></a>
+                        <a href="https://github.com/Dominique57" target="_blank"><i
+                            class="fa fa-github-square"></i></a>
+                    </div>
+                </div>
+                <div class="w3-half w3-hide-small" id="footer_quote">
+                    <p class="w3-xxlarge w3-serif">
+                        <span style="font-size:70px">❝</span>
+                        <i>"Make it as simple as possible, but not simpler."</i></p>
+                    <p>Albert Einstein</p>
+                </div>
+            </div>
+        </footer>
+    </footer>
 </body>
+
 </html>
