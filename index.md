@@ -2,7 +2,7 @@
 # Course : Telecommunications
 
 This git is a recap of all achieved tasks during this semester  
-Another completion of this task (showing all projects) can be found <a href="githubpage/html/index.html">here</a>  .
+Another completion of this task (showing all projects) can be found <a href="githubpage/html/index.html">here</a>.  
 This github page README project file of this project can be accessed <a href="githubpage">here</a>.  
 <br/>
 * * *
