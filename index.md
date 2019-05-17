@@ -2,6 +2,7 @@
 # Course : Telecommunications
 
 This git is a recap of all achieved tasks during this semester  
+Another completion of this task (showing all projects) can be found <a href="githubpage/html/index.htm">here</a>.
 This github page README project fie can be accessed <a href="githubpage">here</a>.  
 <br/>
 * * *
@@ -63,6 +64,12 @@ Project : <a href="#ping2">411-MTP</a>
 combine google colab and bash : ping 5 hosts and collect 100 pings with 3 sec interval  
 load data in python panda data frame and restrieve average, standard dev, variance, histograms, boxplots  
 
+### Week 12
+
+Project : <a href="#expm1">expm python</a>  
+Create a graph from a given expm matrix. Solution is scalable and can accept any matrix (values are not fixed)
+
+
 ### Week 13
 
 Wireshark and networking data packet retrieving with tcpdump  
@@ -80,7 +87,7 @@ Server gather data, puts together and show result
 
 Project : <a href="#githubpage1">Github pages</a>  
 creating a github page to showcase our projects on github  
-An alternative (completly done by hand and by me) can be found <a href="githubpage/html/index.html">here</a>.
+An alternative (completly done by hand, by me and responsive) can be found <a href="githubpage/html/index.html">here</a>.
 
 ### Week 16
 
@@ -149,7 +156,7 @@ Click on image to access git page.
 
 <br/>
 <br/>
-## <a name="tcpdump1"></a>TCPdump : 
+## <a name="tcpdump1"></a>TCPdump : analyse RTT
 
 #### Description : 
 
