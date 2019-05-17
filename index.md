@@ -45,13 +45,13 @@ Creating graphs in R and Python
 Installing Java and discovering basic syntax  
 <br />
 Midterm exam : individual report  
-Given a graph [here](http://213.175.92.37:3104), recreate as close as possible graph in R and Python  and make report using Mardown in Jupyter and LateX to PDf conversion  
+Given a graph [here](http://213.175.92.37:3104)(randomly generated), recreate as close as possible graph in R and Python  and make report using Mardown in Jupyter and LateX to PDf conversion  
 Result can be found <a href="img/PlotMidterm.pdf">here</a>.  
 <br />
 MicroProject in R, Python and Octave : <a href="#microproject1">expm graph (microproject 1)</a>  
 visualize expm results of given matrix [[-3, 3], [5, -5]] in graphs and save results to image format (png, jpg) and pdf  
 Result can be found <a href="img/ReportMicroproject.pdf">here</a>.  
-[<img style="width:250px;height200px;" src="img/matrixuproj.jpg" >]()
+[<img style="width:250px;height200px;" src="img/matrixuproj.jpg" >](img/matrixuproj.jpg)
 
 ### Week 7
 
@@ -78,8 +78,9 @@ Server gather data, puts together and show result
 
 ### Week 15
 
-Project : <a href=#"githubpage1">Github pages</a>  
+Project : <a href="#githubpage1">Github pages</a>  
 creating a github page to showcase our projects on github  
+An alternative (completly done by hand and by me can be found <a href="githupage/html/index.html">here</a>.
 
 ### Week 16
 
