@@ -80,7 +80,7 @@ Server gather data, puts together and show result
 
 Project : <a href="#githubpage1">Github pages</a>  
 creating a github page to showcase our projects on github  
-An alternative (completly done by hand and by me) can be found <a href="githupage/html/">here</a>.
+An alternative (completly done by hand and by me) can be found <a href="githubpage/html/index.html">here</a>.
 
 ### Week 16
 
