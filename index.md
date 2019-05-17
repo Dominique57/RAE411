@@ -213,7 +213,7 @@ Click on image to access git page
 A website using HTML / CSS / PHP / MySql / Javascript / Jquery / AJAX and w3css bootstrap  
 Website was dedicated to present a Unity 3D game i participated to develop  
 Click on image to access git page  
-[<img style="width:150px;height:50px;" src="/test/img/gitLogo.png">](https://github.com/Dominique57/PHPproject) 
+[<img style="width:150px;height:50px;" src="img/gitLogo.png">](https://github.com/Dominique57/PHPproject) 
 
 
 <br/>
@@ -224,7 +224,7 @@ Click on image to access git page
 
 A unity 3D game inspired of Plague inc but in 3D  
 Click on image to access git page  
-[<img style="width:150px;height:50px;" src="/test/img/gitLogo.png">](https://github.com/Dominique57/HelloWorld) 
+[<img style="width:150px;height:50px;" src="img/gitLogo.png">](https://github.com/Dominique57/HelloWorld) 
 
 
 <br/>
@@ -235,7 +235,7 @@ Click on image to access git page
 
 Recoding printf implementation using syscalls, malloc and variadic libraries only  
 Click on image to access git page  
-[<img style="width:150px;height:50px;" src="/test/img/gitLogo.png">](https://github.com/Dominique57/MyPrintf) 
+[<img style="width:150px;height:50px;" src="img/gitLogo.png">](https://github.com/Dominique57/MyPrintf) 
 
 
 <br/>
@@ -248,5 +248,5 @@ C program using GTK and glade for GUI
 Neural Network with fast convergence to be font-more precise and fast-learning  
 Program input is clear image white/black with no overlapping lines  
 Click on image to access git page  
-[<img style="width:150px;height:50px;" src="/test/img/gitLogo.png">](https://github.com/Dominique57/OCR) 
+[<img style="width:150px;height:50px;" src="img/gitLogo.png">](https://github.com/Dominique57/OCR) 
 
