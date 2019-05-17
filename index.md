@@ -100,7 +100,7 @@ Analysing network and finding malware or hacker connections.
 > See [README of project here](PingAwk).
 Click on image to access git page.
 
-[<img style="width:150px;height:50px;" src="img/gitLogo.png">](https://github.com/Dominique57/RAE411/PingAwk) 
+[<img style="width:150px;height:50px;" src="img/gitLogo.png">](https://github.com/Dominique57/RAE411/tree/master/PingAwk) 
 
 
 
@@ -156,7 +156,7 @@ Click on image to access git page.
 
 Click on image to access git page.
 
-[<img style="width:150px;height:50px;" src="/test/img/gitLogo.png">](https://github.com/Dominique57/RAE411/tcpdump) 
+[<img style="width:150px;height:50px;" src="/test/img/gitLogo.png">](https://github.com/Dominique57/RAE411/tree/master/tcpdump) 
 
 
 
@@ -184,7 +184,7 @@ Click on image to access git page.
 
 Click on image to access git page
 
-[<img style="width:150px;height:50px;" src="/test/img/gitLogo.png">](https://github.com/Dominique57/RAE411/githubpage)
+[<img style="width:150px;height:50px;" src="/test/img/gitLogo.png">](https://github.com/Dominique57/RAE411/tree/master/githubpage)
 
 
 
