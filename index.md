@@ -92,7 +92,9 @@ An alternative (completly done by hand, by me and responsive) can be found <a hr
 
 ### Week 16
 
-Analysing network and finding malware or hacker connections.  
+Project : <a href="#copying1">Copying times</a> 
+Computing copying time of files with different size and gather data in plot.  
+Also get time from TCP transfer file using netcat.
 <br/>
 <br/>
 <br/>
@@ -196,6 +198,18 @@ Click on image to access git page
 [<img style="width:150px;height:50px;" src="img/gitLogo.png">](https://github.com/Dominique57/RAE411/tree/master/githubpage)
 
 
+
+<br/>
+<br/>
+## <a name="copying1"></a>Github Page : Website
+
+#### Description : 
+
+> See [README of project here](411w16)
+
+Click on image to access git page
+
+[<img style="width:150px;height:50px;" src="img/gitLogo.png">](https://github.com/Dominique57/411w16)
 
 
 <br/>
